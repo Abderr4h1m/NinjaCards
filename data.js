@@ -1,3 +1,5 @@
+// data.js
+
 const data = {
   teil1: [
     { word: "Stadt Friedichsberg", number: 235 },
@@ -23,6 +25,22 @@ const data = {
     { word: "Der Bau", number: 134 },
     { word: "Europäischen", number: 12 },
     { word: "Weniger Vögel", number: 345 },
+
+    // 🆕 Added from the image (not present before)
+    { word: "Es ist unklar", number: 14 },
+    { word: "BILD AM SONNTAG", number: 123 },
+    { word: "vier Tage pro", number: 12 },
+    { word: "Frankreich", number: 35 },
+    { word: "Die Quote der Hochschulabsolventen", number: 24 },
+    { word: "Die Zahl der Arbeitslosen", number: 24 },
+    { word: "Die Konjunkturentwicklung negativ", number: 14 },
+    { word: "internationale Konferenz", number: 13 },
+    { word: "tschechische Stadt Pilsen", number: 12 },
+    { word: "Deutsche Filmmuseum", number: 24 },
+    { word: "Um Tickets zu gewinnen", number: 34 },
+    { word: "Laut Statistischem Bundesamt", number: 145 },
+    { word: "Bei der Sportveranstaltung", number: 24 },
+    { word: "Nach Ansicht mancher", number: 24 },
   ],
   teil2: [
     { word: "Meron Makeba", number: 4590 },
@@ -74,5 +92,32 @@ const data = {
     { word: "Fandbüro", number: 125 },
     { word: "Ausgang 26", number: 145 },
     { word: "Am Wochenanfang", number: 123 },
+    // New items from the image:
+    { word: "Funktion", number: 125 },
+    { word: "Ausgang", number: 145 },
+    { word: "Angebot", number: 125 },
+    { word: "Rettumtest", number: 13 },
+    { word: "Wanderung", number: 2 },
+    { word: "Die Gruppe Die Prinzen", number: 14 },
+    { word: "spätestens in Hannover", number: 123 },
+    { word: "Für das Konzert mit Romano", number: 35 },
+    { word: "Bayern Radio", number: 145 },
+    { word: "Gartenausstellung 50Ga", number: 214 },
+    { word: "den Opel-Zoo", number: 13 },
+    { word: "Der Christbüchermarkt in Nürnberg", number: 135 },
+    { word: "Das Geschäft für österreichische", number: 15 },
+    { word: "Alle Frage der Pugliese", number: 2 },
+    { word: "Aufgegebenen", number: 25 },
+    { word: "Die Fahrzehörer von Berlin", number: 15 },
+    { word: "Die Literaturmesse für Körnerfolger", number: 5 },
+    { word: "Einmaligkeit im Output", number: 12 },
+    { word: "Das treffen", number: 125 },
+    { word: "INTERANZÖTER ZOO", number: 15 },
+    { word: "Für ein konzert morgen", number: 34 },
+    { word: "Buchbeziehung", number: 15 },
+    { word: "Ein Teil der kostenlosen", number: 23 },
+    { word: "Auf der Wistosbrücke", number: 34 },
+    { word: "Die Buchpräsentation", number: 145 },
+    { word: "Beim Gaside-Rado", number: 13 },
   ],
 };
